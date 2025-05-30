@@ -1,0 +1,39 @@
+{
+  "name": "spun",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240821.1",
+    "buffer": "^6.0.3",
+    "bun-types": "^1.1.26",
+    "esbuild": "^0.17.19",
+    "events": "^3.3.0",
+    "hono": "^4.5.8",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "typescript": "^5.5.4",
+    "wrangler": "^3.72.0"
+  },
+  "private": true,
+  "scripts": {
+    "build": "bun run build.js",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {
+    "@hono/trpc-server": "^0.3.2",
+    "@hono/zod-validator": "^0.2.2",
+    "@mercurial-finance/dynamic-amm-sdk": "^1.0.3",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/actions": "^1.6.2",
+    "@solana/spl-token-registry": "^0.2.4574",
+    "@solana/web3.js": "^1.95.2",
+    "@trpc/client": "^10.45.2",
+    "@trpc/server": "^10.45.2",
+    "@types/bs58": "^4.0.4",
+    "axios": "^1.7.4",
+    "base64-js": "^1.5.1",
+    "bn.js": "^5.2.1",
+    "mathjs": "^13.0.3",
+    "tsc": "^2.0.4",
+    "zod": "^3.23.8"
+  }
+}
