@@ -1,0 +1,19 @@
+{
+  "name": "tiger",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "bun run ",
+    "deploy": "wrangler publish",
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "^0.2.2",
+    "ably": "^2.3.1",
+    "axios": "^1.7.4",
+    "hono": "^4.5.6"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240815.0",
+    "wrangler": "^3.72.2"
+  }
+}
