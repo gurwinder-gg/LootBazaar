@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "module": "esnext",
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "react-jsx",
+    "composite": true,
+    "allowJs": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "allowImportingTsExtensions": true,
+    "types": [
+      "@cloudflare/workers-types"
+    ]
+  },
+  "exclude": ["node_modules"],
+  "include": ["src"]
+}
