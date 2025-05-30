@@ -1,0 +1,12 @@
+name = "spun"
+main = "./dist/app.js"
+compatibility_date = "2025-05-30"
+
+[build]
+command = "bun run build"
+
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "prod-wasabi"
+database_id = "4cb32a53-129b-47fa-a881-570589820161"
