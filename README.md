@@ -12,11 +12,13 @@ LootBazaar is a next-generation DeFi platform built on **Solana**, integrating *
 ### 💰 Token Minting & Staking
 - Users can mint SPL tokens or earn them through staking.
 - Stake tokens to earn rewards and unlock advanced features.
+- Advance Features include **Customized NFT**
 
 ### 🧿 NFT-Based Rewards
 - Stake tokens to receive **NFTs as rewards**, tied to:
   - User performance
   - Pool contributions
+  - Performanance 
   - Reward milestones
 - NFTs are minted using **Metaplex + Arweave** with dynamic metadata.
 
