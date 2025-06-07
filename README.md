@@ -33,6 +33,23 @@ LootBazaar is a next-generation DeFi platform built on **Solana**, integrating *
 - Encourages community-based strategy and collaboration.
 
 ---
+Churro (Web Application)
+Next.js based landing page and web interface
+Features leaderboard and airdrop tracking
+Public FAQs and documentation
+2. Dumpling (Mobile Application)
+Primary trading interface built with React Native & Expo
+UPI payment integration
+Real-time price tracking and order execution
+Secure mobile wallet implementation
+3. Baklava (Chat Server)
+Real-time messaging infrastructure
+User presence tracking
+Message history management
+4. Sushi (Trading Server)
+High-performance order matching engine
+Multi-exchange integration
+Real-time market data processing
 
 ## 📱 Tech Stack
 
