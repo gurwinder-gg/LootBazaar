@@ -9,7 +9,7 @@ LootBazaar is a next-generation DeFi platform built on **Solana**, integrating *
 - Native UPI integration to deposit INR and receive SPL tokens.
 - Bridging TradFi (UPI) and DeFi (Solana) for mass adoption.
 
-### 💰 Token Minting & Staking - WIP
+### 💰 Token Minting & Staking - 
 - Users can mint SPL tokens or earn them through staking.
 - Stake tokens to earn rewards and unlock advanced features.
 - Advance Features include **Customized NFT**
@@ -36,19 +36,19 @@ LootBazaar is a next-generation DeFi platform built on **Solana**, integrating *
 ## Project Suite
 
 
-Churro - 
+### Churro - 
 Next.js web app with an elegant landing page, dynamic leaderboard, and real-time airdrop tracking. Includes user-friendly FAQs and clear documentation.
 
 
-Dumpling -
+### Dumpling -
 React Native mobile app featuring smooth UPI payments, live price updates, instant order execution, and a secure built-in wallet.
 
 
-Baklava -
+### Hippo- WIP
 Real-time chat server with seamless user presence detection and persistent message history for engaging conversations.
 
 
-Sushi- 
+### Spun- WIP
 Lightning-fast trading engine integrating multiple exchanges with real-time market data processing and precise order matching.
 
 
