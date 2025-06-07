@@ -33,7 +33,10 @@ LootBazaar is a next-generation DeFi platform built on **Solana**, integrating *
 - Encourages community-based strategy and collaboration.
 
 ---
-roject Suite
+## Project Suite
+
+---
+
 Churro
 Next.js web app with an elegant landing page, dynamic leaderboard, and real-time airdrop tracking. Includes user-friendly FAQs and clear documentation.
 
